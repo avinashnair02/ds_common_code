@@ -1,2 +1,2 @@
 # ds_common_code
-Basic commands for data science
+Basic commands for data science projects
